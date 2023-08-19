@@ -1,3 +1,5 @@
+//作成者  : 小島佑太
+//作成年月: 2023/7/30
 #ifndef ROUND_ROBIN_H_
 #define ROUND_ROBIN_H_
 #include "scheduler.h"

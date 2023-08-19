@@ -1,3 +1,5 @@
+//作成者  : 小島佑太
+//作成年月: 2023/7/30
 #ifndef SPT_H_
 #define SPT_H_
 #include"scheduler.h"

@@ -1,3 +1,5 @@
+//作成者  : 小島佑太
+//作成年月: 2023/7/30
 #include "scheduler.h"
 
 int main()
